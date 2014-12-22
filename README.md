@@ -1,1 +1,1 @@
-## Repository for 'The Data Scientis's Toolbox on Coursera
+## Repository for 'The Data Scientist's Toolbox' on Coursera
